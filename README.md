@@ -9,7 +9,7 @@ Kullanıcılar, görev ekleyebilir, silebilir ve tamamlandı olarak işaretleyeb
 ## Kullanılan Kütüphaneler
 
 * @React-navigation/native: Sayfa yönlendirmesi için kullanılır.
-* 
+
 
 * @React-navigation/native-stack: Stack tabanlı navigasyon sistemi sağlar.
 
@@ -21,7 +21,7 @@ Kullanıcılar, görev ekleyebilir, silebilir ve tamamlandı olarak işaretleyeb
   
 
 * React-native-linear-gradient: Gradient arka planlar oluşturur.
-* 
+  
 
 * React-native-onboarding-swiper: Kullanıcılara onboarding ekranı sunar.
 
